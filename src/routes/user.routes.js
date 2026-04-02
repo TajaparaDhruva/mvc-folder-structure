@@ -7,8 +7,6 @@ const {
   createUser,
   getAllUsers,
   getUserById,
-  updateUser,
-  deleteUser,
 } = require('../controllers/user.controller');
 
 // CRUD routes
